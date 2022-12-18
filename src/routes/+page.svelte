@@ -17,7 +17,7 @@
 				<img src={welcome_fallback} alt="Welcome" />
 			</picture>
 		</span>
-
+		<h1>Swapnil Srivastava</h1>
 		to your new<br />SvelteKit app
 	</h1>
 
